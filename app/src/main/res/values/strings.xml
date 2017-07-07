@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardViewTutorial</string>
+    <string name="send_to">Share</string>
+    <string name="add_descr">1</string>
+</resources>
